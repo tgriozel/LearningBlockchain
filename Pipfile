@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 mypy = "==0.790"
 flask = "==1.1.2"
+requests = "==2.25.0"
 
 [dev-packages]
 
